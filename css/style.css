@@ -1,3 +1,12 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+
+/* COMMON */
+
+/* HEADER */
 header{
     height: 200px;
     background-color: aqua; 
@@ -9,4 +18,18 @@ header{
     width: 300px;
     margin-top: 120px;
     margin-left: 10px;
+}
+
+/* Main */
+h1{
+    font-size: 3rem;
+    margin-bottom: 0;
+}
+.author{
+    color: darkgray;
+    margin-bottom: 20px;
+}
+
+.creator{
+    color: aqua;
 }
